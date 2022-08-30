@@ -2,4 +2,4 @@ Titulo: falha na rede<br> Categoria: Impressora<br> Descricao: sgwrhwrherhwerhet
 Titulo: falha na rede<br> Categoria: Software<br> Descricao: sgwrhw
 Titulo: falha no servidor<br> Categoria: Software<br> Descricao: sgwrhw
 Titulo: falha no servidor<br> Categoria: Software<br> Descricao: sgwrhw
-Titulo: falha no servidor<br> Categoria: Hardware<br> Descricao: sgwrhw,jbkj
+Titulo: falha no servidor<br> Categoria: Hardware<br> Descricao: sgwrhwjbkj
